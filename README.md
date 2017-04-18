@@ -1,1 +1,1 @@
-Visit this site at https://Programax.github.io/status/
+Visit this site at http://status.gomaxone.com/
